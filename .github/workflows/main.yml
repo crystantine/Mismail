@@ -10,6 +10,7 @@ jobs:
 
 
     runs-on: windows-latest
+    timeout-minutes: 99999
 
 
     steps:
